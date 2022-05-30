@@ -749,7 +749,8 @@ section {
 }
 
 .info-container .info img {
-  height: 7rem;
+  height: 10rem;
+  width: auto;
 }
 
 .info-container .info .content h3 {
